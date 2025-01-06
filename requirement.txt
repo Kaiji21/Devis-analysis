@@ -1,0 +1,7 @@
+streamlit
+pandas
+phonenumbers
+matplotlib
+wordcloud
+nltk
+scikit-learn
